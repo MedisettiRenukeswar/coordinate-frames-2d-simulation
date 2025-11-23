@@ -16,8 +16,11 @@ This is a minimal, ROS-free version of what tools like **ROS2 TF** and **RViz** 
 ## 📂 Project Structure
 coordinate-frames-2d/
 │
-├── frames_math.py # Core 2D rotation + transform + composition utilities
-├── sim_frames.py # Main simulation + visualization (map, odom, base_link, camera, ball)
+
+├── frames_math.py   # Core 2D rotation + transform + composition utilities
+
+├── sim_frames.py    # Main simulation + visualization (map, odom, base_link, camera, ball)
+
 └── README.md
 
 ---
