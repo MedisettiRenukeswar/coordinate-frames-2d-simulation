@@ -13,6 +13,12 @@ This is a minimal, ROS-free version of what tools like **ROS2 TF** and **RViz** 
 
 ---
 
+## 🎬 Coordinate Frames 2D Simulation (Animation Preview)
+
+![Coordinate Frames 2D Simulation](assets/coordinate_frames_2d.gif)
+
+---
+
 ## 📂 Project Structure
 coordinate-frames-2d/
 │
